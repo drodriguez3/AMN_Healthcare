@@ -1,0 +1,181 @@
+candidate_id,market,specialty,years_experience,certifications,available_in_days,preferred_shift,willing_to_travel
+DEMO-0001,Dallas–Fort Worth,ER RN,10,BLS;ACLS;PALS,7,Day,Yes
+DEMO-0002,Atlanta,OR RN,2,BLS;CNOR,0,Flexible,No
+DEMO-0003,Phoenix,Respiratory Therapist,6,BLS;RRT,0,Flexible,Yes
+DEMO-0004,Dallas–Fort Worth,ICU RN,3,BLS;ACLS;CCRN,45,Day,No
+DEMO-0005,San Antonio,Respiratory Therapist,8,BLS;RRT,30,Flexible,Yes
+DEMO-0006,Phoenix,ICU RN,14,BLS;ACLS;CCRN,45,Flexible,No
+DEMO-0007,Houston,ER RN,11,BLS;ACLS;PALS,7,Night,No
+DEMO-0008,Dallas–Fort Worth,Physical Therapist,10,BLS;PT License,21,Night,Yes
+DEMO-0009,San Antonio,Med-Surg RN,4,BLS,0,Flexible,Yes
+DEMO-0010,Phoenix,OR RN,5,BLS;CNOR,14,Day,Yes
+DEMO-0011,Houston,OR RN,6,BLS;CNOR,21,Flexible,No
+DEMO-0012,Phoenix,Physical Therapist,17,BLS;PT License,0,Flexible,No
+DEMO-0013,Atlanta,ICU RN,5,BLS;ACLS;CCRN,14,Day,Yes
+DEMO-0014,Atlanta,Respiratory Therapist,5,BLS;RRT,14,Night,Yes
+DEMO-0015,Atlanta,OR RN,7,BLS;CNOR,45,Flexible,No
+DEMO-0016,Phoenix,Med-Surg RN,9,BLS,0,Day,No
+DEMO-0017,Houston,ICU RN,1,BLS;ACLS;CCRN,14,Day,No
+DEMO-0018,Dallas–Fort Worth,Physical Therapist,15,BLS;PT License,30,Flexible,No
+DEMO-0019,Phoenix,ICU RN,4,BLS;ACLS;CCRN,0,Flexible,Yes
+DEMO-0020,Phoenix,ICU RN,12,BLS;ACLS;CCRN,30,Flexible,Yes
+DEMO-0021,Austin,ER RN,2,BLS;ACLS;PALS,14,Night,Yes
+DEMO-0022,Houston,ER RN,8,BLS;ACLS;PALS,45,Day,No
+DEMO-0023,Phoenix,Med-Surg RN,5,BLS,7,Day,Yes
+DEMO-0024,Austin,ICU RN,6,BLS;ACLS;CCRN,45,Night,No
+DEMO-0025,Atlanta,Physical Therapist,8,BLS;PT License,14,Day,Yes
+DEMO-0026,Austin,ICU RN,16,BLS;ACLS;CCRN,7,Day,No
+DEMO-0027,Houston,OR RN,8,BLS;CNOR,7,Day,Yes
+DEMO-0028,Austin,OR RN,9,BLS;CNOR,0,Night,No
+DEMO-0029,Atlanta,Respiratory Therapist,13,BLS;RRT,45,Flexible,No
+DEMO-0030,San Antonio,ICU RN,9,BLS;ACLS;CCRN,7,Flexible,No
+DEMO-0031,San Antonio,ICU RN,14,BLS;ACLS;CCRN,14,Flexible,No
+DEMO-0032,Austin,Respiratory Therapist,17,BLS;RRT,0,Night,Yes
+DEMO-0033,Houston,ICU RN,14,BLS;ACLS;CCRN,0,Flexible,Yes
+DEMO-0034,Houston,Med-Surg RN,3,BLS,45,Night,No
+DEMO-0035,Atlanta,ICU RN,10,BLS;ACLS;CCRN,30,Night,No
+DEMO-0036,Houston,Med-Surg RN,10,BLS,30,Day,Yes
+DEMO-0037,Austin,Physical Therapist,13,BLS;PT License,45,Flexible,Yes
+DEMO-0038,Phoenix,Respiratory Therapist,10,BLS;RRT,21,Flexible,Yes
+DEMO-0039,Houston,OR RN,7,BLS;CNOR,21,Flexible,No
+DEMO-0040,Austin,Med-Surg RN,15,BLS,45,Day,No
+DEMO-0041,Atlanta,ER RN,3,BLS;ACLS;PALS,14,Flexible,No
+DEMO-0042,San Antonio,ER RN,10,BLS;ACLS;PALS,7,Day,Yes
+DEMO-0043,San Antonio,ICU RN,8,BLS;ACLS;CCRN,21,Flexible,Yes
+DEMO-0044,Austin,Med-Surg RN,7,BLS,45,Flexible,No
+DEMO-0045,Austin,Med-Surg RN,8,BLS,7,Flexible,Yes
+DEMO-0046,San Antonio,Med-Surg RN,8,BLS,7,Flexible,No
+DEMO-0047,San Antonio,Respiratory Therapist,8,BLS;RRT,0,Night,Yes
+DEMO-0048,Austin,Physical Therapist,17,BLS;PT License,30,Flexible,No
+DEMO-0049,Austin,Respiratory Therapist,17,BLS;RRT,21,Flexible,No
+DEMO-0050,Dallas–Fort Worth,Physical Therapist,16,BLS;PT License,21,Night,Yes
+DEMO-0051,Atlanta,OR RN,17,BLS;CNOR,21,Flexible,Yes
+DEMO-0052,Houston,Med-Surg RN,3,BLS,45,Night,Yes
+DEMO-0053,Houston,OR RN,11,BLS;CNOR,30,Day,Yes
+DEMO-0054,Dallas–Fort Worth,ER RN,13,BLS;ACLS;PALS,45,Day,Yes
+DEMO-0055,San Antonio,Med-Surg RN,14,BLS,14,Flexible,No
+DEMO-0056,Austin,ICU RN,7,BLS;ACLS;CCRN,21,Night,Yes
+DEMO-0057,Phoenix,Med-Surg RN,16,BLS,0,Night,No
+DEMO-0058,Austin,Med-Surg RN,18,BLS,45,Flexible,Yes
+DEMO-0059,Austin,ER RN,9,BLS;ACLS;PALS,21,Night,Yes
+DEMO-0060,Austin,OR RN,13,BLS;CNOR,45,Day,No
+DEMO-0061,Dallas–Fort Worth,Respiratory Therapist,18,BLS;RRT,0,Night,Yes
+DEMO-0062,San Antonio,Physical Therapist,14,BLS;PT License,7,Night,Yes
+DEMO-0063,San Antonio,OR RN,13,BLS;CNOR,14,Day,No
+DEMO-0064,Houston,OR RN,13,BLS;CNOR,14,Night,No
+DEMO-0065,San Antonio,Med-Surg RN,1,BLS,45,Flexible,Yes
+DEMO-0066,Houston,ER RN,3,BLS;ACLS;PALS,45,Day,Yes
+DEMO-0067,Dallas–Fort Worth,ER RN,1,BLS;ACLS;PALS,30,Day,Yes
+DEMO-0068,Dallas–Fort Worth,Med-Surg RN,4,BLS,30,Day,No
+DEMO-0069,Atlanta,OR RN,12,BLS;CNOR,7,Flexible,Yes
+DEMO-0070,Dallas–Fort Worth,OR RN,4,BLS;CNOR,30,Day,No
+DEMO-0071,Phoenix,Physical Therapist,13,BLS;PT License,21,Flexible,Yes
+DEMO-0072,San Antonio,Respiratory Therapist,8,BLS;RRT,0,Flexible,No
+DEMO-0073,Atlanta,Respiratory Therapist,4,BLS;RRT,30,Day,No
+DEMO-0074,Phoenix,Med-Surg RN,12,BLS,0,Flexible,No
+DEMO-0075,San Antonio,Med-Surg RN,16,BLS,0,Night,No
+DEMO-0076,Atlanta,Med-Surg RN,5,BLS,21,Day,No
+DEMO-0077,Phoenix,Respiratory Therapist,16,BLS;RRT,21,Night,No
+DEMO-0078,Houston,ER RN,3,BLS;ACLS;PALS,14,Night,Yes
+DEMO-0079,Austin,Respiratory Therapist,13,BLS;RRT,14,Day,No
+DEMO-0080,Houston,ER RN,16,BLS;ACLS;PALS,7,Night,No
+DEMO-0081,Houston,OR RN,9,BLS;CNOR,30,Day,Yes
+DEMO-0082,San Antonio,ER RN,14,BLS;ACLS;PALS,21,Flexible,Yes
+DEMO-0083,Atlanta,Med-Surg RN,16,BLS,21,Day,Yes
+DEMO-0084,Houston,ER RN,13,BLS;ACLS;PALS,45,Day,No
+DEMO-0085,Atlanta,Respiratory Therapist,12,BLS;RRT,21,Flexible,No
+DEMO-0086,Austin,Physical Therapist,18,BLS;PT License,14,Night,No
+DEMO-0087,Houston,OR RN,9,BLS;CNOR,7,Day,Yes
+DEMO-0088,Houston,ICU RN,18,BLS;ACLS;CCRN,45,Day,Yes
+DEMO-0089,Dallas–Fort Worth,Physical Therapist,16,BLS;PT License,14,Flexible,No
+DEMO-0090,San Antonio,ER RN,10,BLS;ACLS;PALS,7,Night,Yes
+DEMO-0091,Houston,ICU RN,18,BLS;ACLS;CCRN,7,Night,Yes
+DEMO-0092,San Antonio,Respiratory Therapist,10,BLS;RRT,45,Day,No
+DEMO-0093,San Antonio,ICU RN,10,BLS;ACLS;CCRN,21,Night,No
+DEMO-0094,Houston,ER RN,2,BLS;ACLS;PALS,14,Night,Yes
+DEMO-0095,San Antonio,Med-Surg RN,16,BLS,0,Flexible,Yes
+DEMO-0096,Dallas–Fort Worth,ER RN,10,BLS;ACLS;PALS,0,Day,Yes
+DEMO-0097,Phoenix,Med-Surg RN,8,BLS,30,Night,No
+DEMO-0098,Austin,OR RN,14,BLS;CNOR,14,Flexible,Yes
+DEMO-0099,Phoenix,Physical Therapist,4,BLS;PT License,7,Flexible,Yes
+DEMO-0100,Houston,Physical Therapist,3,BLS;PT License,7,Day,Yes
+DEMO-0101,Phoenix,ICU RN,6,BLS;ACLS;CCRN,0,Night,No
+DEMO-0102,Atlanta,Respiratory Therapist,16,BLS;RRT,14,Day,Yes
+DEMO-0103,Houston,Physical Therapist,10,BLS;PT License,45,Night,Yes
+DEMO-0104,Atlanta,ER RN,9,BLS;ACLS;PALS,45,Flexible,Yes
+DEMO-0105,Austin,ICU RN,18,BLS;ACLS;CCRN,7,Flexible,Yes
+DEMO-0106,Houston,ER RN,3,BLS;ACLS;PALS,0,Day,No
+DEMO-0107,Phoenix,Physical Therapist,10,BLS;PT License,21,Day,No
+DEMO-0108,Atlanta,OR RN,13,BLS;CNOR,14,Flexible,No
+DEMO-0109,Austin,ICU RN,2,BLS;ACLS;CCRN,21,Flexible,No
+DEMO-0110,Phoenix,OR RN,1,BLS;CNOR,0,Day,Yes
+DEMO-0111,Atlanta,OR RN,2,BLS;CNOR,7,Night,No
+DEMO-0112,Houston,ER RN,14,BLS;ACLS;PALS,45,Night,Yes
+DEMO-0113,Austin,OR RN,14,BLS;CNOR,14,Night,Yes
+DEMO-0114,Dallas–Fort Worth,OR RN,14,BLS;CNOR,45,Night,No
+DEMO-0115,Atlanta,Med-Surg RN,18,BLS,0,Night,Yes
+DEMO-0116,Houston,OR RN,11,BLS;CNOR,0,Night,Yes
+DEMO-0117,Atlanta,Respiratory Therapist,15,BLS;RRT,21,Day,Yes
+DEMO-0118,Phoenix,OR RN,16,BLS;CNOR,45,Night,Yes
+DEMO-0119,Dallas–Fort Worth,OR RN,18,BLS;CNOR,7,Night,No
+DEMO-0120,Atlanta,Med-Surg RN,4,BLS,0,Flexible,Yes
+DEMO-0121,Atlanta,ER RN,10,BLS;ACLS;PALS,30,Day,No
+DEMO-0122,San Antonio,ER RN,4,BLS;ACLS;PALS,21,Day,Yes
+DEMO-0123,Austin,Physical Therapist,10,BLS;PT License,30,Flexible,No
+DEMO-0124,Austin,Med-Surg RN,16,BLS,7,Night,Yes
+DEMO-0125,Austin,ER RN,17,BLS;ACLS;PALS,45,Day,Yes
+DEMO-0126,Houston,Med-Surg RN,11,BLS,30,Night,Yes
+DEMO-0127,Houston,Physical Therapist,10,BLS;PT License,30,Flexible,No
+DEMO-0128,Dallas–Fort Worth,Med-Surg RN,18,BLS,21,Night,No
+DEMO-0129,Phoenix,Respiratory Therapist,13,BLS;RRT,21,Night,Yes
+DEMO-0130,Atlanta,ER RN,13,BLS;ACLS;PALS,7,Night,Yes
+DEMO-0131,Houston,Physical Therapist,16,BLS;PT License,45,Night,No
+DEMO-0132,Atlanta,Physical Therapist,5,BLS;PT License,21,Day,Yes
+DEMO-0133,Phoenix,Respiratory Therapist,11,BLS;RRT,0,Night,Yes
+DEMO-0134,Phoenix,Med-Surg RN,1,BLS,45,Day,No
+DEMO-0135,Atlanta,ER RN,3,BLS;ACLS;PALS,21,Night,No
+DEMO-0136,Phoenix,Physical Therapist,13,BLS;PT License,45,Day,No
+DEMO-0137,Atlanta,Respiratory Therapist,13,BLS;RRT,14,Flexible,No
+DEMO-0138,Phoenix,ICU RN,3,BLS;ACLS;CCRN,7,Flexible,No
+DEMO-0139,Dallas–Fort Worth,Physical Therapist,3,BLS;PT License,21,Day,Yes
+DEMO-0140,Austin,ER RN,10,BLS;ACLS;PALS,0,Day,No
+DEMO-0141,San Antonio,OR RN,12,BLS;CNOR,14,Night,Yes
+DEMO-0142,Dallas–Fort Worth,Respiratory Therapist,14,BLS;RRT,30,Flexible,Yes
+DEMO-0143,Dallas–Fort Worth,ER RN,3,BLS;ACLS;PALS,30,Night,Yes
+DEMO-0144,Austin,Respiratory Therapist,5,BLS;RRT,7,Night,No
+DEMO-0145,Austin,OR RN,1,BLS;CNOR,21,Night,Yes
+DEMO-0146,San Antonio,Med-Surg RN,12,BLS,30,Night,No
+DEMO-0147,Atlanta,OR RN,15,BLS;CNOR,14,Day,No
+DEMO-0148,Austin,ICU RN,8,BLS;ACLS;CCRN,21,Flexible,No
+DEMO-0149,Phoenix,OR RN,10,BLS;CNOR,0,Flexible,No
+DEMO-0150,Houston,ICU RN,2,BLS;ACLS;CCRN,30,Flexible,No
+DEMO-0151,Houston,ER RN,12,BLS;ACLS;PALS,7,Flexible,Yes
+DEMO-0152,Phoenix,OR RN,5,BLS;CNOR,45,Day,Yes
+DEMO-0153,Houston,Med-Surg RN,2,BLS,30,Night,Yes
+DEMO-0154,San Antonio,OR RN,11,BLS;CNOR,45,Night,Yes
+DEMO-0155,Dallas–Fort Worth,ER RN,18,BLS;ACLS;PALS,14,Flexible,No
+DEMO-0156,Dallas–Fort Worth,OR RN,16,BLS;CNOR,14,Flexible,No
+DEMO-0157,San Antonio,Med-Surg RN,3,BLS,7,Day,No
+DEMO-0158,Phoenix,OR RN,3,BLS;CNOR,21,Day,No
+DEMO-0159,Phoenix,ICU RN,15,BLS;ACLS;CCRN,14,Flexible,No
+DEMO-0160,Phoenix,Med-Surg RN,12,BLS,0,Flexible,Yes
+DEMO-0161,Austin,ICU RN,18,BLS;ACLS;CCRN,14,Flexible,Yes
+DEMO-0162,Atlanta,ICU RN,15,BLS;ACLS;CCRN,45,Night,No
+DEMO-0163,San Antonio,ER RN,2,BLS;ACLS;PALS,0,Night,No
+DEMO-0164,San Antonio,ICU RN,8,BLS;ACLS;CCRN,30,Day,No
+DEMO-0165,Austin,OR RN,18,BLS;CNOR,21,Flexible,Yes
+DEMO-0166,Austin,Physical Therapist,4,BLS;PT License,21,Flexible,No
+DEMO-0167,Houston,ICU RN,12,BLS;ACLS;CCRN,7,Night,No
+DEMO-0168,Dallas–Fort Worth,OR RN,4,BLS;CNOR,45,Night,No
+DEMO-0169,San Antonio,Med-Surg RN,9,BLS,7,Day,No
+DEMO-0170,San Antonio,Physical Therapist,7,BLS;PT License,45,Flexible,Yes
+DEMO-0171,San Antonio,OR RN,8,BLS;CNOR,7,Flexible,Yes
+DEMO-0172,San Antonio,Respiratory Therapist,7,BLS;RRT,30,Day,Yes
+DEMO-0173,Houston,ER RN,1,BLS;ACLS;PALS,14,Day,Yes
+DEMO-0174,Phoenix,OR RN,6,BLS;CNOR,0,Flexible,Yes
+DEMO-0175,Dallas–Fort Worth,ICU RN,12,BLS;ACLS;CCRN,7,Flexible,No
+DEMO-0176,San Antonio,ER RN,9,BLS;ACLS;PALS,0,Day,No
+DEMO-0177,Phoenix,ICU RN,3,BLS;ACLS;CCRN,21,Night,No
+DEMO-0178,Phoenix,Respiratory Therapist,4,BLS;RRT,21,Flexible,Yes
+DEMO-0179,Phoenix,ICU RN,17,BLS;ACLS;CCRN,14,Night,Yes
+DEMO-0180,San Antonio,Med-Surg RN,13,BLS,21,Flexible,Yes

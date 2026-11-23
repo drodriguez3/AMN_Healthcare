@@ -1,0 +1,37 @@
+market,specialty,open_requests,available_candidates,filled_last_90d,requests_last_90d,median_days_to_fill,avg_bill_rate,avg_pay_rate
+San Antonio,ICU RN,28,10,45,63,26,107,68
+San Antonio,ER RN,83,18,85,115,14,93,66
+San Antonio,OR RN,41,36,74,78,47,115,108
+San Antonio,Med-Surg RN,42,64,85,105,12,110,109
+San Antonio,Respiratory Therapist,57,42,29,45,33,103,66
+San Antonio,Physical Therapist,62,19,55,80,28,95,113
+Dallas–Fort Worth,ICU RN,82,22,58,66,47,127,101
+Dallas–Fort Worth,ER RN,38,15,15,32,30,100,84
+Dallas–Fort Worth,OR RN,26,55,45,77,35,110,102
+Dallas–Fort Worth,Med-Surg RN,59,33,44,51,22,158,86
+Dallas–Fort Worth,Respiratory Therapist,34,66,58,78,47,118,96
+Dallas–Fort Worth,Physical Therapist,21,36,14,37,37,124,63
+Houston,ICU RN,41,47,37,71,37,172,113
+Houston,ER RN,32,40,27,45,47,158,88
+Houston,OR RN,68,58,56,73,20,155,118
+Houston,Med-Surg RN,25,13,24,36,22,144,63
+Houston,Respiratory Therapist,63,55,86,118,45,122,56
+Houston,Physical Therapist,28,75,44,68,19,127,110
+Austin,ICU RN,34,65,10,29,44,112,119
+Austin,ER RN,27,45,74,89,21,137,75
+Austin,OR RN,83,74,10,33,43,92,69
+Austin,Med-Surg RN,60,46,40,46,27,162,65
+Austin,Respiratory Therapist,24,69,18,29,20,174,115
+Austin,Physical Therapist,84,28,43,73,25,159,80
+Phoenix,ICU RN,53,58,57,88,45,147,70
+Phoenix,ER RN,45,35,18,42,13,165,84
+Phoenix,OR RN,42,7,19,25,26,98,59
+Phoenix,Med-Surg RN,56,16,75,93,29,175,117
+Phoenix,Respiratory Therapist,41,23,83,116,27,150,107
+Phoenix,Physical Therapist,38,19,22,52,34,144,107
+Atlanta,ICU RN,73,13,22,28,37,133,68
+Atlanta,ER RN,45,31,34,65,20,144,78
+Atlanta,OR RN,49,66,41,48,40,160,67
+Atlanta,Med-Surg RN,20,8,21,39,22,142,117
+Atlanta,Respiratory Therapist,75,34,61,67,22,138,55
+Atlanta,Physical Therapist,63,40,68,89,39,161,117
