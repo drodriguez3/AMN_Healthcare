@@ -1,4 +1,4 @@
-# IronGate Cortex AI Workforce Copilot — Executive Experience POC v3
+# IronGate Cortex AI Workforce Copilot — Executive Experience POC 
 
 An offline, synthetic, presentation-oriented demonstration of **three distinct Snowflake Cortex AI value propositions** for healthcare staffing operations.
 
